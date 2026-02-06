@@ -1,0 +1,20 @@
+{
+  "name": "SP Miłowice",
+  "short_name": "Miłowice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuoGCQVvz3PAF8QwLXxQSIq8TeKY6VPa_ZZX86Ln85EqW9YxhoBfeRFjou30KTbfjbfNDyQ0wxdh6i4cpIZZ3y_qpZfzpksBxK_PT_ogRvJfIGVZCMlXIgf5Jzb9I5rVtJrsYiSvq9dvAYid4TvNPTM_GuROC0y2YbK0tx4toyHpmG8lLljasFcLojGKYF/s192/square-root_2106429.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7g5pMrYn065zannrnIy1iBhEwpE8y0MZi6nGZibnU8qByOM7KOXwVWmsk-nWDJ-sE0yWk24W1BS7fMp62IBtq2qsJO6BaPjygrZlOefx5S_OHRSnbCN3AdXMaObVH9cos1N2UDS9MDgnDxCuYYbuUw6vqgeiRXgInQzZcR_kxq19fTPSQW6Ofz9O0y6OA/s512/square-root_2106429.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
